@@ -1,0 +1,8 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const REGISTRATION_SUCCESS = "REGISTRATION_SUCCESS";
+export const LOGOUT = "LOGOUT";
+export const IS_LOADING = "IS_LOADING";
+export const NETWORK_RESPONSE = "NETWORK_RESPONSE";
+export const NETWORK_ERROR = "NETWORK_ERROR";
+export const TIMER_START = "TIMER_START";
+export const TIMER_END = "TIMER_END";
